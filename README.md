@@ -1,4 +1,4 @@
-# Metabase with Python Analytics Project
+# Python with Metabase Analytics Project
 Analytics
 
 S
