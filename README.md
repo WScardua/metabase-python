@@ -3,7 +3,7 @@ Analytics
 
 
 ## Motivação
-Falta de uma visão global das diversas áreas de negócio da companhia, o que dificulta qualquer tipo de tomada de decisões estratégica
+Falta de uma visão global das diversas áreas de negócio da companhia, o que dificulta qualquer tipo de tomada de decisão estratégica
 
 ## Desafio
 * Banco de dados origem sem qualquer tipo de mecanismo de otimização devido as caracterísca do ERP;
@@ -40,9 +40,7 @@ Desenvolver ETL's que busque dados no ERP em produção, trate/transforme o dado
 </p>
 
 ## Resultado
-A área de negócio passa a ter uma visão global, precisa e dinâmica de diversos indicadores de negócio que interagem entre sí, tais como: Posição de Compras, Previsão de Recebimento, Previsão de Vendas, Indicadores de Estoque, etc.
-
-Com decisões baseadas em informações  é possível tomar melhores decisões e um direcionamento mais competitivo.
+A área de negócio passa a ter uma visão global, precisa e dinâmica de varios indicadores de negócio que interagem entre sí, tais como: Posição de Compras, Previsão de Recebimento, Previsão de Vendas, Indicadores de Estoque, etc., desta forma é possível tomar decisões estratégicas de forma a garantir que a companhia seja cada vez mais competitiva e eficiente
 
 <p align="center">
 	<img src="Dashboard-VisaoGeral.PNG" height="50%" width="50%">
