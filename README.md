@@ -15,3 +15,5 @@ Desenvolvimento de dashboard sob a plataforma Metabase que aborda diversas métr
 
 R
 A área de negócio passa a ter uma visão global e precisa de diversos indicadores de negócio, tais como: Compras, Estoque. Com decisões baseadas em dados é possívle tomar melhores decisões e um direcionamento mais competitivo. 
+
+![Screenshot](estruutra-etl-metabase.jpg =250x250)
