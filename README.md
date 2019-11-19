@@ -49,5 +49,5 @@ Com decisões baseadas em dados é possível tomar melhores decisões e um direc
 	<img src="Dashboard-VisaoGeral.PNG" height="50%" width="50%">
 </p>
 
-<p align="center">** Por questões de privacidade as informações estão baseadas em dados ficticios **</p>
+<p align="center">** Por questões de privacidade este dashboard está baseado em dados ficticios **</p>
 
