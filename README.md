@@ -2,7 +2,7 @@
 Analytics
 
 
-## Situação / Motivação
+## Motivação
 Após o amadurecimento da solução de ERP decidi levar mais inteligencia a tomada de decisões estratégicas da companhia, derivada de dados tratados e relevantes numa visualização de fácil entendimento, performática que seja escalável e sem um custo elevado.
  
 ## Desafio
@@ -12,7 +12,7 @@ Após o amadurecimento da solução de ERP decidi levar mais inteligencia a toma
 * Tipos de dados básicos (char e number) para todas as colunas de todas as tabelas do ERP;
 * Desejável que se tenha o menor 'gap' possível entre os pipelines.
  
-## Tarefa / Abordagem a ser Adotada
+## Abordagem
 Desenvolver ETL's buscassem informações no ERP, tratassem a informação e a transportassem para um banco de dados exclusivo e otimizado para a criação de dashboards de negócio
 
 1. Modelagem e construção de uma estrutura de banco de dados otimizado para DW;
@@ -21,7 +21,7 @@ Desenvolver ETL's buscassem informações no ERP, tratassem a informação e a t
 4. Carga dos dados tratados para o banco DW
 5. Criação de dashboards de negócio.
 
-## Ação / Solução Aplicada
+## Solução
 
 1. Modelagem de estuturas de tabela otimizadas em um novo schema de banco de dados Oracle de forma a suportar a carga e a performance exigida por uma solução de analytics
 	- SQL
@@ -41,7 +41,7 @@ Desenvolver ETL's buscassem informações no ERP, tratassem a informação e a t
 	<img src="estruutra-etl-metabase.jpg" height="50%" width="50%">
 </p>
 
-## Resultado / Resultado Alcançado
+## Resultado
 A área de negócio passa a ter uma visão global, precisa e dinâmica de diversos indicadores de negócio, tais como: Posição de Compras, Previsão de Recebimento, Previsão de Vendas, Indicadores de Estoque, etc. 
 Com decisões baseadas em dados é possível tomar melhores decisões e um direcionamento mais competitivo.
 
@@ -49,5 +49,5 @@ Com decisões baseadas em dados é possível tomar melhores decisões e um direc
 	<img src="Dashboard-VisaoGeral.PNG" height="50%" width="50%">
 </p>
 
-###### *Por questões de privacidade as informações estão baseadas em dados ficticios
+###### *Por questões de privacidade as informações estão baseadas em dados ficticios {align=center}
 
