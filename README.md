@@ -12,7 +12,7 @@ Falta de uma visão global das diversas áreas de negócio da companhia, o que d
 * Desejável que se tenha o menor 'gap' possível entre os pipelines.
  
 ## Abordagem
-Desenvolver ETL's que busque dados no ERP em produção, trate/transforme o dado bruto em informação útil e a transporte para um banco de dados exclusivo e otimizado para a criação de dashboards de negócio
+Desenvolver ETL's que busque dados no ERP em produção, trate/transforme o dado bruto em informação útil e as transporte para um banco de dados exclusivo e otimizado para a criação de dashboards de negócio
 
 1. Modelagem e construção de uma estrutura de banco de dados otimizado para DW;
 2. Carga de dados do ERP de Produção;
