@@ -3,7 +3,7 @@ Analytics
 
 
 ## Motivação
-Falta de painéis de indicadores das diversas áreas de negócio para uma tomada rápida de decisões estratégicas
+Falta de painéis de indicadores das diversas áreas de negócio interagindo entre sí para uma tomada rápida de decisões estratégicas
 
 ## Desafio
 * Banco de dados origem sem qualquer tipo de mecanismo de otimização devido as caracterísca do ERP;
@@ -12,12 +12,12 @@ Falta de painéis de indicadores das diversas áreas de negócio para uma tomada
 * Desejável que se tenha o menor 'gap' possível entre os pipelines.
  
 ## Abordagem
-Desenvolver ETL's buscassem informações no ERP, tratassem a informação e a transportassem para um banco de dados exclusivo e otimizado para a criação de dashboards de negócio
+Desenvolver ETL's que busque dados no ERP em produção, trate/transforme o dado bruto em informação útil e a transporte para um banco de dados exclusivo e otimizado para a criação de dashboards de negócio
 
 1. Modelagem e construção de uma estrutura de banco de dados otimizado para DW;
 2. Carga de dados do ERP de Produção;
 3. Tratamento e Transformação dos dados;
-4. Carga dos dados tratados para o banco DW
+4. Carga das informações para o banco DW;
 5. Criação de dashboards de negócio.
 
 ## Solução
@@ -40,8 +40,9 @@ Desenvolver ETL's buscassem informações no ERP, tratassem a informação e a t
 </p>
 
 ## Resultado
-A área de negócio passa a ter uma visão global, precisa e dinâmica de diversos indicadores de negócio, tais como: Posição de Compras, Previsão de Recebimento, Previsão de Vendas, Indicadores de Estoque, etc. 
-Com decisões baseadas em dados é possível tomar melhores decisões e um direcionamento mais competitivo.
+A área de negócio passa a ter uma visão global, precisa e dinâmica de diversos indicadores de negócio que interagem entre sí, tais como: Posição de Compras, Previsão de Recebimento, Previsão de Vendas, Indicadores de Estoque, etc.
+
+Com decisões baseadas em informações  é possível tomar melhores decisões e um direcionamento mais competitivo.
 
 <p align="center">
 	<img src="Dashboard-VisaoGeral.PNG" height="50%" width="50%">
