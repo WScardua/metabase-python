@@ -6,7 +6,13 @@ Analytics
 Após o amadurecimento da solução de ERP decidi levar mais inteligencia a tomada de decisões estratégicas da companhia, derivada de dados tratados e relevantes numa visualização de fácil entendimento, performática que seja escalável e sem um custo elevado.
  
 ## Tarefa
-Desenvolver ETL's em python que buscassem informações no ERP, tratassem a informação e a transportassem para um banco de dados exclusivo e otimizado para a criação de dashboards de negócio. Criar dasboards baseado na necessidade de negócio
+Desenvolver ETL's buscassem informações no ERP, tratassem a informação e a transportassem para um banco de dados exclusivo e otimizado para a criação de dashboards de negócio. Criar dasboards baseado na necessidade de negócio
+
+1. Modelagem e construção de uma estrutura de banco de dados otimizado para DW;
+2. Carga de dados do ERP de Produção;
+3. Tratamento e Transformação dos dados;
+4. Carga dos dados tratados para o banco DW
+5. Criação de dashboards de negocio.
 
 <p align="center">
 	<img src="estruutra-etl-metabase.jpg" height="50%" width="50%">
