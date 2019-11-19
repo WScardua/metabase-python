@@ -1,2 +1,2 @@
-# metabase Analytics Projects
+# Metabase Analytics Projects
 Metabase Analytics
