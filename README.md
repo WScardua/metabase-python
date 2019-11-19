@@ -1,13 +1,12 @@
-# Python with Metabase Analytics Project
+# Metabase Analytics com Python
 Analytics
 
 
 ## Motivação
-Após o amadurecimento da solução de ERP decidi levar mais inteligencia a tomada de decisões estratégicas da companhia, derivada de dados tratados e relevantes numa visualização de fácil entendimento, performática que seja escalável e sem um custo elevado.
- 
-## Desafio
+Falta de painéis de indicadores das diversas áreas de negócio para uma tomada rápida de decisões estratégicas
 
-* Banco de dados origem sem qualquer tipo de mecanismo de otimização devido as caracteriscas do ERP;
+## Desafio
+* Banco de dados origem sem qualquer tipo de mecanismo de otimização devido as caracterísca do ERP;
 * 150.000+ linhas de dados bruto;
 * Tipos de dados básicos (char e number) para todas as colunas de todas as tabelas do ERP;
 * Desejável que se tenha o menor 'gap' possível entre os pipelines.
@@ -22,17 +21,16 @@ Desenvolver ETL's buscassem informações no ERP, tratassem a informação e a t
 5. Criação de dashboards de negócio.
 
 ## Solução
-
-1. Modelagem de estuturas de tabela otimizadas em um novo schema de banco de dados Oracle de forma a suportar a carga e a performance exigida por uma solução de analytics
+1. Modelagem de estruturas de tabela otimizadas em um novo schema de banco de dados Oracle de forma a suportar a carga e a performance exigida por uma solução de analytics
 	- SQL
 	- Oracle
 
-2. Desenvolvimentos de ETL's em Python que conectam ao schema do banco de dados Oracle do ERP de produção e fazem todo o tratamento e conversão dos diversos tipos de dados para carga em um outro schema de banco de dados também em Oracle otimizado para trazer uma performance satisfatoria
+2. Desenvolvimentos de ETL's em Python que conectam ao schema do banco de dados Oracle do ERP de produção e fazem todo o tratamento e conversão dos diversos tipos de dados para carga em um outro schema de banco de dados também em Oracle otimizado para trazer uma performance satisfatória
 	- Python
 	- Oracle
 	- SQL
 
-3. Desenvolvimento de dashboard sob a plataforma Metabase que aborda diversas métricas de negócio utilizando filtros dinamicos para refinar as visualizações 
+3. Desenvolvimento de dashboard sob a plataforma Metabase que aborda diversas métricas de negócio utilizando filtros dinâmicos para refinar as visualizações 
 	- SQL
 	- Metabase
 	
@@ -49,5 +47,5 @@ Com decisões baseadas em dados é possível tomar melhores decisões e um direc
 	<img src="Dashboard-VisaoGeral.PNG" height="50%" width="50%">
 </p>
 
-<p align="center">** Por questões de privacidade este dashboard está baseado em dados ficticios **</p>
+<p align="center">** Por questões de privacidade este dashboard está baseado em dados fictícios **</p>
 
