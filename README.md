@@ -28,7 +28,8 @@ Desenvolver ETL's buscassem informações no ERP, tratassem a informação e a t
 3. Desenvolvimento de dashboard sob a plataforma Metabase que aborda diversas métricas de negócio utilizando filtros dinamicos para refinar as visualizações 
 	- SQL
 	- Metabase
-
+	
+## Estruturação
 <p align="center">
 	<img src="estruutra-etl-metabase.jpg" height="50%" width="50%">
 </p>
