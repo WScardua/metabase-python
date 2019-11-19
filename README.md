@@ -24,6 +24,7 @@ Desenvolver ETL's que busque dados no ERP em produção, trate/transforme o dado
 1. Modelagem de estruturas de tabela otimizadas em um novo schema de banco de dados Oracle de forma a suportar a carga e a performance exigida por uma solução de analytics
 	- SQL
 	- Oracle
+	- Modelagem
 
 2. Desenvolvimentos de ETL's em Python que conectam ao schema do banco de dados Oracle do ERP de produção e fazem todo o tratamento e conversão dos diversos tipos de dados para carga em um outro schema de banco de dados também em Oracle otimizado para trazer uma performance satisfatória
 	- Python
