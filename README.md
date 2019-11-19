@@ -46,7 +46,6 @@ A área de negócio passa a ter uma visão global, precisa e dinâmica de divers
 Com decisões baseadas em dados é possível tomar melhores decisões e um direcionamento mais competitivo.
 
 <p align="center">
-	<img src="Dashboard - Visão Geral.jpg" height="50%" width="50%">
+	<img src="Dashboard-VisaoGeral.PNG" height="50%" width="50%">
 </p>
-
 
