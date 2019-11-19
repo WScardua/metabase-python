@@ -1,4 +1,4 @@
-# Metabase Analytics Project
+# Metabase with Analytics Project
 Metabase Analytics
 
 S
