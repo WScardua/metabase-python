@@ -15,14 +15,19 @@ Desenvolver ETL's buscassem informações no ERP, tratassem a informação e a t
 5. Criação de dashboards de negocio.
 
 ## Ação / Solução Aplicada
-Desenvolvimentos de ETL's em Python que conectam ao schema do banco de dados Oracle do ERP e fazem todo o tratamento e conversão dos diversos tipos de dados para carga em um outro schema de banco de dados também em Oracle otimizado para trazer uma performance satisfatoria
 
-Desenvolvimento de dashboard sob a plataforma Metabase que aborda diversas métricas de negócio utilizando filtros dinamicos para refinar as visualizações 
+1. Modelagem de estuturas de tabela otimizadas de um novo schema de banco de dados Oracle de forma a suportar a carga e a performance exigida por uma solução de analytics
+	- SQL
+	- Oracle
 
-* Python
-* Oracle
-* SQL
-* Metabase
+2. Desenvolvimentos de ETL's em Python que conectam ao schema do banco de dados Oracle do ERP e fazem todo o tratamento e conversão dos diversos tipos de dados para carga em um outro schema de banco de dados também em Oracle otimizado para trazer uma performance satisfatoria
+	- Python
+	- Oracle
+	- SQL
+
+3. Desenvolvimento de dashboard sob a plataforma Metabase que aborda diversas métricas de negócio utilizando filtros dinamicos para refinar as visualizações 
+	- SQL
+	- Metabase
 
 <p align="center">
 	<img src="estruutra-etl-metabase.jpg" height="50%" width="50%">
