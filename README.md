@@ -1,6 +1,12 @@
 # Metabase Analytics Project
 Metabase Analytics
 
+
+Markup : * Python
+	 * Oracle
+	 * SQL
+	 * Metabase
+
 S
 Após o amadurecimento da solução de ERP decidi levar mais inteligencia e dados tratados e relevantes para que a empresa possa tomar suas decisções baseadas em informações que fossem de fato relevantes, de forma ágil, escalável e sem um custo elevado
 	
