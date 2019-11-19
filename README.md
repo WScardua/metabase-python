@@ -3,7 +3,7 @@ Analytics
 
 
 ## Motivação
-Falta de painéis de indicadores das diversas áreas de negócio interagindo entre sí para uma tomada rápida de decisões estratégicas
+Falta de uma visão global das diversas áreas de negócio da companhia, o que dificulta qualquer tipo de tomada de decisões estratégica
 
 ## Desafio
 * Banco de dados origem sem qualquer tipo de mecanismo de otimização devido as caracterísca do ERP;
