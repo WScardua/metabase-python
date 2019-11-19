@@ -34,7 +34,7 @@ Desenvolver ETL's que busque dados no ERP em produção, trate/transforme o dado
 	- SQL
 	- Metabase
 	
-## Resumo da Estruturação da Solução
+## Estruturação da Solução
 <p align="center">
 	<img src="estruutra-etl-metabase.jpg" height="50%" width="50%">
 </p>
