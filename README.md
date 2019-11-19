@@ -29,7 +29,7 @@ Desenvolver ETL's buscassem informações no ERP, tratassem a informação e a t
 	- SQL
 	- Metabase
 	
-## Estruturação
+## Resumo da Estruturação da Solução Proposta
 <p align="center">
 	<img src="estruutra-etl-metabase.jpg" height="50%" width="50%">
 </p>
