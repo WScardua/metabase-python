@@ -3,7 +3,7 @@ Analytics
 
 
 ## Motivação
-Falta de uma visão global das diversas áreas de negócio da companhia, o que dificulta qualquer tipo de tomada de decisão estratégica
+Falta de uma visão holistica das diversas áreas de negócio da companhia, o que dificulta qualquer tipo de tomada de decisão estratégica em um mercado super competitivo e em constante mudanças trazidas pelas flutuações do mercado internacional
 
 ## Desafio
 * Banco de dados origem sem qualquer tipo de mecanismo de otimização devido as caracterísca do ERP;
