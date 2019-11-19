@@ -45,4 +45,8 @@ Desenvolver ETL's buscassem informações no ERP, tratassem a informação e a t
 A área de negócio passa a ter uma visão global, precisa e dinâmica de diversos indicadores de negócio, tais como: Posição de Compras, Previsão de Recebimento, Previsão de Vendas, Indicadores de Estoque, etc. 
 Com decisões baseadas em dados é possível tomar melhores decisões e um direcionamento mais competitivo.
 
+<p align="center">
+	<img src="Dashboard - Visão Geral.jpg" height="50%" width="50%">
+</p>
+
 
