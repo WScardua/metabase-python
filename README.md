@@ -5,22 +5,29 @@ Analytics
 ## Situação / Motivação
 Após o amadurecimento da solução de ERP decidi levar mais inteligencia a tomada de decisões estratégicas da companhia, derivada de dados tratados e relevantes numa visualização de fácil entendimento, performática que seja escalável e sem um custo elevado.
  
+## Desafio
+
+* Banco de dados origem sem qualquer tipo de mecanismo de otimização devido as caracteriscas do ERP;
+* 150.000+ linhas de dados bruto;
+* Tipos de dados básicos (char e number) para todas as colunas de todas as tabelas do ERP;
+* Desejável que se tenha o menor 'gap' possível entre os pipelines.
+ 
 ## Tarefa / Abordagem a ser Adotada
-Desenvolver ETL's buscassem informações no ERP, tratassem a informação e a transportassem para um banco de dados exclusivo e otimizado para a criação de dashboards de negócio. Criar dasboards baseado na necessidade de negócio
+Desenvolver ETL's buscassem informações no ERP, tratassem a informação e a transportassem para um banco de dados exclusivo e otimizado para a criação de dashboards de negócio
 
 1. Modelagem e construção de uma estrutura de banco de dados otimizado para DW;
 2. Carga de dados do ERP de Produção;
 3. Tratamento e Transformação dos dados;
 4. Carga dos dados tratados para o banco DW
-5. Criação de dashboards de negocio.
+5. Criação de dashboards de negócio.
 
 ## Ação / Solução Aplicada
 
-1. Modelagem de estuturas de tabela otimizadas de um novo schema de banco de dados Oracle de forma a suportar a carga e a performance exigida por uma solução de analytics
+1. Modelagem de estuturas de tabela otimizadas em um novo schema de banco de dados Oracle de forma a suportar a carga e a performance exigida por uma solução de analytics
 	- SQL
 	- Oracle
 
-2. Desenvolvimentos de ETL's em Python que conectam ao schema do banco de dados Oracle do ERP e fazem todo o tratamento e conversão dos diversos tipos de dados para carga em um outro schema de banco de dados também em Oracle otimizado para trazer uma performance satisfatoria
+2. Desenvolvimentos de ETL's em Python que conectam ao schema do banco de dados Oracle do ERP de produção e fazem todo o tratamento e conversão dos diversos tipos de dados para carga em um outro schema de banco de dados também em Oracle otimizado para trazer uma performance satisfatoria
 	- Python
 	- Oracle
 	- SQL
