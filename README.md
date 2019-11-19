@@ -42,7 +42,7 @@ Desenvolver ETL's buscassem informações no ERP, tratassem a informação e a t
 </p>
 
 ## Resultado / Resultado Alcançado
-A área de negócio passa a ter uma visão global e precisa de diversos indicadores de negócio, tais como: Compras, Vendas, Estoque, etc. 
+A área de negócio passa a ter uma visão global, precisa e dinâmica de diversos indicadores de negócio, tais como: Posição de Compras, Previsão de Recebimento, Previsão de Vendas, Indicadores de Estoque, etc. 
 Com decisões baseadas em dados é possível tomar melhores decisões e um direcionamento mais competitivo.
 
 
