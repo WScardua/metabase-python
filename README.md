@@ -1,5 +1,5 @@
 # Metabase Analytics com Python
-Analytics/Python
+Analytics/Metabase/Python/SQL
 
 
 ## Motivação
