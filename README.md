@@ -1,5 +1,5 @@
-# Metabase Analytics com Python
-Analytics/Metabase/Python/SQL
+# Metabase Analytics
+Analytics/Metabase/Airflow/Python/SQL
 
 
 ## Motivação
@@ -23,6 +23,7 @@ Desenvolver ETL's que busque dados no ERP em produção, trate/transforme o dado
 ## Solução
 1. Modelagem de estruturas de tabela otimizadas em um novo schema de banco de dados Oracle de forma a suportar a carga e a performance exigida por uma solução de analytics
 	- SQL
+	- Airflow
 	- Oracle
 	- Modelagem
 
