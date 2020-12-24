@@ -15,10 +15,10 @@ Falta de uma visão holistica das diversas áreas de negócio da companhia, o qu
 Desenvolver ETL's que busque dados no ERP em produção, trate/transforme o dado bruto em informação útil e as transporte para um banco de dados exclusivo e otimizado para a criação de dashboards de negócio
 
 1. Modelagem e construção de uma estrutura de banco de dados otimizado para DW;
-2. Carga de dados do ERP de Produção;
-3. Tratamento e Transformação dos dados;
-4. Carga das informações para o banco DW;
-5. Criação de dashboards de negócio.
+2. Carga de dados do ERP de Produção com Airflow;
+3. Tratamento e Transformação dos dados com Python;
+4. Carga das informações para o banco DW com Python;
+5. Criação de dashboards de negócio com Metabase
 
 ## Solução
 1. Modelagem de estruturas de tabela otimizadas em um novo schema de banco de dados Oracle de forma a suportar a carga e a performance exigida por uma solução de analytics
@@ -29,6 +29,7 @@ Desenvolver ETL's que busque dados no ERP em produção, trate/transforme o dado
 
 2. Desenvolvimentos de ETL's em Python que conectam ao schema do banco de dados Oracle do ERP de produção e fazem todo o tratamento e conversão dos diversos tipos de dados para carga em um outro schema de banco de dados também em Oracle otimizado para trazer uma performance satisfatória
 	- Python
+	- Airflow
 	- Oracle
 	- SQL
 
