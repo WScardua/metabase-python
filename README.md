@@ -27,7 +27,7 @@ Desenvolver ETL's que busque dados no ERP em produção, trate/transforme o dado
 	- Oracle
 	- Modelagem
 
-2. Desenvolvimentos de ETL's em Python que conectam ao schema do banco de dados Oracle do ERP de produção e fazem todo o tratamento e conversão dos diversos tipos de dados para carga em um outro schema de banco de dados também em Oracle otimizado para trazer uma performance satisfatória
+2. Desenvolvimentos de ETL's em Airflow e Python que conectam ao schema do banco de dados Oracle do ERP de produção e fazem todo o tratamento e conversão dos diversos tipos de dados para carga em um outro schema de banco de dados também em Oracle otimizado para trazer uma performance satisfatória
 	- Python
 	- Airflow
 	- Oracle
