@@ -41,6 +41,9 @@ Desenvolver ETL's que busque dados no ERP em produção, trate/transforme o dado
 <p align="center">
 	<img src="estutura-etl-airflow-metabase.jpg" height="70%" width="70%">
 </p>
+<p align="center">
+	<img src="airflow.jpg" height="70%" width="70%">
+</p>
 
 ## Resultado
 A área de negócio passa a ter uma visão global, precisa e dinâmica de varios indicadores de negócio que interagem entre sí, tais como: Posição de Compras, Previsão de Recebimento, Previsão de Vendas, Indicadores de Estoque, etc., desta forma é possível tomar decisões estratégicas de forma a garantir que a companhia seja cada vez mais competitiva e eficiente
