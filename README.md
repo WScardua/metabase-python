@@ -39,7 +39,7 @@ Desenvolver ETL's que busque dados no ERP em produção, trate/transforme o dado
 	
 ## Estruturação da Solução
 <p align="center">
-	<img src="estutura-etl-airflow-metabase.jpg" height="50%" width="50%">
+	<img src="estutura-etl-airflow-metabase.jpg" height="70%" width="70%">
 </p>
 
 ## Resultado
